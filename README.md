@@ -1,2 +1,2 @@
 # hello-world
-My greeting to world.
+My greetings to the world.
